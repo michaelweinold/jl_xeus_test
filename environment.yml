@@ -4,3 +4,7 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
+  - lxml
+  - peewee
+  - numpy
+  - pandas
