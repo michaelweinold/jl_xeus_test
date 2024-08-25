@@ -7,4 +7,5 @@ dependencies:
   - python=3.11
   - xeus-python
   - ipycanvas
+  - better_exceptions_fork
   - bw2io=0.9.dev34
