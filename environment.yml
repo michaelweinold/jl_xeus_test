@@ -6,3 +6,4 @@ dependencies:
   - python=3.11
   - xeus-python
   - scipy
+  - numpy=1.26.4
