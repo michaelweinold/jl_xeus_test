@@ -5,4 +5,4 @@ channels:
 dependencies:
   - python=3.11
   - xeus-python
-  - stats-arrays=0.7
+  - stats_arrays=0.7
